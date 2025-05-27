@@ -52,5 +52,5 @@ Here are some official Swift resources to deepen your understanding of `@frozen`
 - [`SE-0193: Cross-module Inlining and Specialization`](https://github.com/apple/swift-evolution/blob/main/proposals/0193-cross-module-inlining-and-specialization.md)  
   Introduces the `@inlinable` keyword and its benefits for performance and cross-module optimization.
 
-- [Swift.org — ABI Stability](https://swift.org/abi-stability/)  
-  Explains Swift's ABI (Application Binary Interface) stability goals and how attributes like `@frozen` contribute.
+- [Swift Blog: Library Evolution in Swift](https://www.swift.org/blog/library-evolution/)  
+  Explains how ABI and module stability are handled in Swift, and how attributes like `@frozen` fit in.
